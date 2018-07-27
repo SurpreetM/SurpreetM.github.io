@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why Software Development?"
-date:       2018-07-27 00:47:27 +0000
+date:       2018-07-26 20:47:28 -0400
 permalink:  why_software_development
 ---
 
@@ -11,6 +11,6 @@ A temporary career break to have a baby, coupled with a relocation from London t
 
 After much research and taking a couple of introductory online courses in software and web development, I decided to take the plunge and commit fully to a career transition with Flatiron, and so here I am.. 
 
-> Hello World! 
+Hello World! 
 
 <3
